@@ -1,0 +1,23 @@
+Author: Cordelia R W Wilson
+Date:   Oct 9, 2014   11:30 am
+environment: Appium and iOS Simulator; Appium and Android Emulator
+
+This test will find Family Share on the simulated device's browser, and log in. After ensuring that the login worked, it will log out and close the browser.
+
+This is a text document because I just want to outline the plan before figuring out how to code it all up. As the test develops, this file will become more detailed and specific.
+
+Step 1: Open device.
+
+Step 2: Open browser.
+
+Step 3: Type in Family Share url.
+
+Step 4: Select login.
+
+Step 5: Enter username and password.
+
+Step 6: Select login.
+
+Step 7: Ensure login occurred.
+
+Step 8: Select logout.
